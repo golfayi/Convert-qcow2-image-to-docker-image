@@ -1,8 +1,8 @@
 #!/bin/bash
 #####################
 #Script Name : Convert devel or release image to docker image
-#Author : Yi Xiaodong ( xiaodong.yi@nokia-sbell.com )
-#Using Method : ./ConvertToDockerImage.sh -i http://10.56.118.71/pilivee/RCP/rcp2.0/release/RCP2.0_17.51.0/images/rcp2.0-devel_r23156-171218-054011.qcow2
+#Author : golfayi ( golfayi@sina.com)
+#Using Method : ./ConvertToDockerImage.sh -i "Image's URL"
 ####################
 
 #================
